@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14F27" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Class" representedClassName="Class" syncable="YES">
+        <attribute name="class_time_final" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field_ages_value" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field_class_day_value" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field_class_flex_footer_value" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field_class_flex_header_value" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field_class_footer_value" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="field_class_instructor_nid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="index" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="title_final" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Class" positionX="-63" positionY="-18" width="128" height="180"/>
+    </elements>
+</model>
